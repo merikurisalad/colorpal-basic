@@ -1,0 +1,9 @@
+img {
+  height: auto;
+  max-width: 80%;
+  cursor: url('images/CursorSquare.svg'), auto;
+}
+
+.color-picker {
+  flex-direction: row;
+}
